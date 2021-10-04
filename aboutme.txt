@@ -1,2 +1,3 @@
-modifying for git rebase
+git add modifying for git rebase
 modifying for git 2
+
