@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-gadded some infogit diffst
-=======
-added some infogit diffgit
->>>>>>> Stashed changes
+nothing
