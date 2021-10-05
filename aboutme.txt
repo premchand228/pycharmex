@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-git add modifying for git rebase
-modifying for git 2
+modifying for git rebase
 
-=======
-<<<<<<< HEAD
-modifying for git rebase
-modifying for git 2
-=======
-modifying for git rebase
->>>>>>> fb4c6cb (comming aboutme.txt)
->>>>>>> 7d76a9e (rebasing final one inserting commit message)
